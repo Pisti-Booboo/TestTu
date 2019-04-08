@@ -9,6 +9,6 @@
 
 # Order is important; the last matching pattern takes the most precedence.
 
-# own any files in directory at the root of the repository 
+# own any files in this directory from the root of the repository 
 # and any of its subdirectories.
 /build/logs/ @csc-testor
