@@ -1,0 +1,14 @@
+# CODEOWNERS
+# This is a comment.
+# Each line is a file pattern followed by one or more owners.
+
+# set the default owner for everything in the repo.
+# Unless a later match takes precedence,
+# he will be requested for review when someone opens a pull request.
+*       @jlc930
+
+# Order is important; the last matching pattern takes the most precedence.
+
+# own any files in directory at the root of the repository 
+# and any of its subdirectories.
+/build/logs/ @csc-testor
